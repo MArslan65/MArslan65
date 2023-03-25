@@ -1,8 +1,8 @@
 ### Hi there 👋, Muhammad Arslan
-#### Data Analyst
 I'm Muhammad Arslan from Pakistan. I use a range of statistical and analytical tools to process and interpret data, and then present my findings in a clear and meaningful way to stakeholders.
 
-Skills: Excel, SQL, Tableau, R, python, Power BI, Machine learning
+## Skills And Experience
+Excel, SQL, Tableau, R, python, Power BI, Machine learning
 
 
 
