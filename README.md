@@ -1,6 +1,6 @@
 ### Hi there 👋, Muhammad Arslan
 #### Data Analyst
-My role is to analyze raw data to identify patterns, trends, and insights that can be used to inform business decisions. I use a range of statistical and analytical tools to process and interpret data, and then present my findings in a clear and meaningful way to stakeholders.
+I'm Muhammad Arslan from Pakistan. I use a range of statistical and analytical tools to process and interpret data, and then present my findings in a clear and meaningful way to stakeholders.
 
 Skills: Excel, SQL, Tableau, R, python, Power BI, Machine learning
 
